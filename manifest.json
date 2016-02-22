@@ -1,0 +1,14 @@
+﻿{
+"name": "Online Learning",
+"version": "2.0",
+"manifest_version": 2,
+"icons": { "128": "128.png" },
+"app": {
+"urls": [
+"https://lcc-cloud-learning.appspot.com/"
+],
+"launch": {
+"web_url": "https://lcc-cloud-learning.appspot.com/"
+}
+}
+}
